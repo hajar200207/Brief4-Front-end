@@ -81,6 +81,15 @@
     border-style: none;
     cursor: pointer;
 }
+button:hover{
+   background-color: #EEFF30;
+   color: black;
+}
+#signin:hover{
+    background-color: #EEFF30;
+    color: black;
+}
+
 
 
 .footer {
